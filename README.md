@@ -1,4 +1,4 @@
-# chinese_chitchat
+# Chinese poet generation 
 ![image](pic/screen.PNG)
 
 If you want to use the model and code, please refer to https://github.com/yaoxiaoyuan/mimix.
